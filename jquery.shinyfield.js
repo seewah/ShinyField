@@ -18,7 +18,7 @@
  * To make your text, password fields look pretty! Comes with html5-placeholder support. Though having a
  * placeholder value specified is NOT a requirement.
  *
- * See http://www.mendeley.com/join/ :)
+ * See https://www.mendeley.com/join/ :)
  *
  * Example usage:
  *
