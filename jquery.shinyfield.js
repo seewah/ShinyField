@@ -34,7 +34,7 @@
    		return this.each(function() {
 			var element = $(this);
 			if(element.data("shinyfield")) return;
-      		var shinyField = new ShinyField(this, options);
+			var shinyField = new ShinyField(this, options);
 			element.data("shinyfield", shinyField);
     		});
 	};
