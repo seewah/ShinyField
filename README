@@ -11,7 +11,7 @@ Big thanks to @AndrewOfficer and @subcide, of the Mendeley UX team, for design i
 A simple jQuery plugin, originally developed for the Mendeley website, to
 
 	* implement consistent HTML5 input (text/password) placeholder hinting behaviour across all major browsers, including IE 7+!
-	* apply CSS3 styling such as border-radius and box-shadow on the inputs. Sorry, IE users will be not get those lovely rounded corners.
+	* apply CSS3 styling such as border-radius and box-shadow on the inputs. Sorry, IE users will not get those lovely rounded corners.
 
 See https://www.mendeley.com/join/ to see this plugin in action!
 
