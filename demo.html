@@ -1,0 +1,27 @@
+<!DOCTYPE html> 
+<html xmlns:fb="http://www.facebook.com/2008/fbml"> 
+<head> 
+	<meta charset="utf-8"> 
+	<title>Shinify demo!</title>
+	<link rel="stylesheet" type="text/css" href="jquery.shinyfield.css">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+	<script src="jquery.shinyfield.js" type="text/javascript"></script>
+	<script>
+		$(function() {
+			$("input[name=pretty-text]").shinify();
+			$("input[name=pretty-password]").shinify();
+		});
+	</script>
+</head>
+<body>
+	<div>Turns</div>
+	<div><input name="ugly-text" placeholder="Your name ..."></div>
+	<div>into</div>
+	<div><input name="pretty-text" placeholder="Your name ..."></div>
+	<br><br>
+	<div>Turns</div>
+	<div><input name="ugly-password" type="password" placeholder="Password ..."></div>
+	<div>into</div>
+	<div><input name="pretty-password" type="password" placeholder="Password ..."></div>
+</body>
+</html>
