@@ -15,7 +15,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  *
- * To make your text, password fields look pretty! Comes with html5-placeholder support, though having a
+ * To make your text, password fields look pretty! Comes with html5-placeholder support. Though having a
  * placeholder value specified is NOT a requirement.
  *
  * See http://www.mendeley.com/join/ :)
