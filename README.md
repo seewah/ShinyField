@@ -21,7 +21,7 @@ Visit https://www.mendeley.com/join/ or http://seewah.blogspot.com/2011/12/shiny
 SIMPLE USAGE
 ------------
 
-See demo.html for the a basic example of how to use this plugin. Simply load both the jQuery js and the ShinyField js in the <head> section of the html, and then invoke .shinify() on the relevant elements inside the "document.ready" handler.
+See demo.html for the a basic example of how to use this plugin. Simply load both the jQuery js and the ShinyField js in the "head" section of the html, and then invoke .shinify() on the relevant elements inside the "document.ready" handler.
 
 CUSTOMIZATION OPTIONS
 ---------------------
