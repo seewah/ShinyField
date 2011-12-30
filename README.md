@@ -37,14 +37,20 @@ Every look-and-feel aspect of this plugin can be customized via CSS. Here are so
 
 1) to change input box dimensions (default is 292px by 36px, with 10px by 8px "inner padding"):
 
+<pre>
 .shiny-field-wrapper { width: 100px; height: 24px; }
 .shiny-field-wrapper input { margin: 5px; width: 90px; font-size: 11px; } /* note that you need to override MARGIN here */
 .shiny-field-hint { padding: 5px; width: 90px; font-size: 11px; } /* note that you need to override PADDING here */
+</pre>
 
 2) to change the "in focus" border colour:
 
+<pre>
 .shiny-field-wrapper.in-focus { border-color: red; }
+</pre>
 
 3) to make the wrapper an "inline block" element:
 
+<pre>
 .shiny-field-wrapper { display: inline-block; }
+</pre>
