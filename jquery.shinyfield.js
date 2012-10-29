@@ -49,7 +49,7 @@
 	};
 	
 	ShinyField.prototype.init = function() {
-		this.input.wrap('<div class="shiny-field-wrapper"/>');
+		this.input.wrap('<span class="shiny-field-wrapper"/>');
 		this.wrapper = this.input.parent();
 		if(this.settings.wrapperId) this.wrapper.attr("id", this.settings.wrapperId);
 		if(this.settings.wrapperClass) this.wrapper.addClass(this.settings.wrapperClass);

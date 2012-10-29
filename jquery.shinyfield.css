@@ -1,4 +1,8 @@
 .shiny-field-wrapper {
+	display: inline-block;
+	/* IE7 inline-block hack. You may want to create a IE7-specific stylesheet? */
+	zoom: 1;
+	*display: inline;
 	position: relative;
 	height: 36px;
 	width: 292px;
