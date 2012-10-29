@@ -1,4 +1,4 @@
-ShinyField jQuery Plugin v0.1.0
+ShinyField jQuery Plugin v0.1.1
 ===============================
 
 Copyright 2012 Mendeley Ltd. Licensed under the Apache License, Version 2.0
@@ -47,10 +47,4 @@ Every look-and-feel aspect of this plugin can be customized via CSS. Here are so
 
 <pre>
 .shiny-field-wrapper.in-focus { border-color: red; }
-</pre>
-
-3) to make the wrapper an "inline block" element:
-
-<pre>
-.shiny-field-wrapper { display: inline-block; }
 </pre>
